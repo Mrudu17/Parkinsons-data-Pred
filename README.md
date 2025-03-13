@@ -7,12 +7,6 @@ Parkinson's disease is a progressive nervous system disorder that affects moveme
 
 ---
 
-Predicting Parkinson's disease using machine learning — because early detection can change lives.
-
-![Parkinson's Awareness Ribbon](https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Parkinson%27s_awareness_ribbon.svg/1024px-Parkinson%27s_awareness_ribbon.svg.png)
-
----
-
 ## 🚀 Features
 - ✅ Exploratory Data Analysis (EDA)
 - ✅ Data preprocessing & feature scaling
